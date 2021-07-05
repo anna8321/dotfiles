@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = anais.meirone@live.fr
+	name = anais meirone
